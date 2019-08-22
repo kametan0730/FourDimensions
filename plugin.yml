@@ -1,0 +1,14 @@
+name: FourDimensions
+main: FourDimensions\Main
+version: 0.0.1
+api: 3.9.5
+author: kametan0730
+commands:
+  vland:
+    description: "vland setting command"
+    usage: "/vland <info|default>"
+    permission: kametan.vland.admin
+permissions:
+  kametan.vland.admin:
+    description: "administrator of vland"
+    default: op
