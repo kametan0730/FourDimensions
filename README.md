@@ -16,3 +16,7 @@ Zについても同様
 
 virtual_chunk_max_height : 最大の高さ。必ず16の倍数にしてください。
 virtual_chunk_enabled_level : 仮想チャンクを有効にするワールド名
+
+これから実装する予定のこと:
+Tileを動くように
+他人の土地に行けるように(時空移動)
